@@ -39,7 +39,9 @@ This repository contains the code for my portfolio, created as part of an assign
 Navigate to the project directory:
 
 
-cd portfolio
+2. cd portfolio-assignment
+
+   
 
 If you are using SCSS, you may need to compile it into CSS. If you don't have a build process set up, consider using tools like Node-Sass or Dart Sass.
 
