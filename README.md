@@ -37,14 +37,16 @@ https://portfolio-assignment-gamma.vercel.app/
 
 ```bash
 git clone https://github.com/rounit08/portfolio-assignment
+```
+
 
 # Navigate to the project directory:
+```bash
 cd portfolio
-
+```
 # Install dependencies:
+```bash
 npm install
-
-# The installation is complete. You can close the terminal if you wish.
 ```
 
 
