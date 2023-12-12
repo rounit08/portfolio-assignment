@@ -36,13 +36,15 @@ https://portfolio-assignment-gamma.vercel.app/
 
    ```bash
    git clone https://github.com/rounit08/portfolio-assignment
+   
 Navigate to the project directory:
 
-```bash
-2. cd portfolio
+   bash
+   cd portfolio
 
-```bash
-3. npm install
+   bash
+    npm install
+
 
 If you are using SCSS, you may need to compile it into CSS. If you don't have a build process set up, consider using tools like Node-Sass or Dart Sass.
 
