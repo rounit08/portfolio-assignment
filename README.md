@@ -43,8 +43,9 @@ cd portfolio
 
 # Install dependencies:
 npm install
-exit
 
+# The installation is complete. You can close the terminal if you wish.
+```
 
 
 If you are using SCSS, you may need to compile it into CSS. If you don't have a build process set up, consider using tools like Node-Sass or Dart Sass.
