@@ -42,7 +42,7 @@ git clone https://github.com/rounit08/portfolio-assignment
 
 # Navigate to the project directory:
 ```bash
-cd portfolio
+cd portfolio-assignment
 ```
 # Install dependencies:
 ```bash
